@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SVG" transform="translate(-336.000000, -30.000000)">
+            <g id="small_search" transform="translate(330.000000, 24.000000)">
+                <g id="Group-2" transform="translate(6.000000, 6.000000)">
+                    <circle id="Oval-41" stroke="#FFFFFF" stroke-width="2" cx="8" cy="8" r="7"></circle>
+                    <path d="M13.0142197,11.5999756 L17.6728101,16.258566 C18.0623755,16.6481314 18.0643209,17.2777964 17.6710739,17.6710434 C17.2805496,18.0615677 16.6483773,18.0625604 16.2585966,17.6727796 L11.6000061,13.0141891 L13.0142197,11.5999756 Z" id="Rectangle-113" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
